@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/kasem_shibli" target="blank"><img src="https://img.shields.io/twitter/follow/kasem_shibli?logo=twitter&style=for-the-badge" alt="kasem_shibli" /></a> </p>
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning **AI, Win32Api**
+
+- 📫 How to reach me **kasem545@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
