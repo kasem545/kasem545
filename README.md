@@ -11,9 +11,6 @@
 
 - 📫 How to reach me **kasem545@proton.me**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kasem_shibli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kasem_shibli" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
