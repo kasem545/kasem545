@@ -7,8 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/kasem_shibli" target="blank"><img src="https://img.shields.io/twitter/follow/kasem_shibli?logo=twitter&style=for-the-badge" alt="kasem_shibli" /></a> </p>
 
-<p align="left"> <a href="#" target="blank"><img decoding="async" style="display: block; align:center; -webkit-user-select: none;margin: auto;background-color: transition: background-color 300ms;" src="https://www.hackthebox.com/badge/image/671151"></a> </p>
-<p align="left"> <a href="https://tryhackme.com/p/kasemsh99" target="blank"><img src="https://tryhackme-badges.s3.amazonaws.com/kasemsh99.png" alt="TryHackMe"></a> </p>
+<p align="left"> <a href="" target="blank"><img decoding="async" style="display: block; align:center; -webkit-user-select: none;margin: auto;background-color: transition: background-color 300ms;" src="https://www.hackthebox.com/badge/image/671151"></a> </p>
+<p align="left"> <a href="" target="blank"><img src="https://tryhackme-badges.s3.amazonaws.com/kasemsh99.png" alt="TryHackMe"></a> </p>
 
 - 🌱 I’m currently learning **AI, Win32Api**
 
