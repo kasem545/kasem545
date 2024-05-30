@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kasem545" alt="kasem545" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kasem_shibli" target="blank"><img src="https://img.shields.io/twitter/follow/kasem_shibli?logo=twitter&style=for-the-badge" alt="kasem_shibli" /></a> </p>
-
 <p align="left"> <a href="#" target="blank"><img decoding="async" style="display: block; align:center; -webkit-user-select: none;margin: auto;background-color: transition: background-color 300ms;" src="https://www.hackthebox.com/badge/image/671151"></a> <a href="#" target="blank"><img src="https://tryhackme-badges.s3.amazonaws.com/kasemsh99.png" alt="TryHackMe" width="220" height="50"></a> </p>
 
 - 🌱 I’m currently learning **AI, Win32Api**
