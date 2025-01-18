@@ -28,7 +28,5 @@ Here are my wallet addresses:
 - **Ethereum (ETH):** `0x4fFe1Fc428D023c8A9f5548a71E588942175702b`
 - **Monero (XMR):**
 `0x457Df2ADaf8B3bDA81b01e251A28DFe821dc2Ca3`
----
-<h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kasemshibl0"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kasemshibl0" /></a></p><br><br>
 
