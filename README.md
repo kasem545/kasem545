@@ -22,9 +22,7 @@
 
 Thank you for visiting my GitHub page! If you'd like to support my work, consider sending a contribution. Every bit helps me continue developing and sharing my projects.
 
-## Get Payments
-
-I accept payments via Bitcoin and Ethereum. Here are my wallet addresses:
+Here are my wallet addresses:
 
 - **Bitcoin (BTC):** `bc1qyuzpezmnjkvruswa6xj6lj2lecaerzh2mum08c`
 - **Ethereum (ETH):** `0x4fFe1Fc428D023c8A9f5548a71E588942175702b`
