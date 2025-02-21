@@ -21,12 +21,5 @@
 # Support Me
 
 Thank you for visiting my GitHub page! If you'd like to support my work, consider sending a contribution. Every bit helps me continue developing and sharing my projects.
-
-Here are my wallet addresses:
-
-- **Bitcoin (BTC):** `bc1qyuzpezmnjkvruswa6xj6lj2lecaerzh2mum08c`
-- **Ethereum (ETH):** `0x4fFe1Fc428D023c8A9f5548a71E588942175702b`
-- **Monero (XMR):**
-`0x457Df2ADaf8B3bDA81b01e251A28DFe821dc2Ca3`
 <p><a href="https://www.buymeacoffee.com/kasemshibl0"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kasemshibl0" /></a></p><br><br>
 
