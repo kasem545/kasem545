@@ -9,9 +9,37 @@
 <!--width="220" height="50"-->
 
 
-- 🌱 I’m currently learning **AI, Win32Api**
+### 🔭 Current Focus
+- Building and automating internal red-team tools
+- Studying advanced Active Directory and privilege escalation techniques
+- Experimenting with malware development and detection evasion in lab environments
 
-- 📫 How to reach me **kasem545@proton.me**
+### 🧠 What I Enjoy
+- CTFs & exploit development
+- Network and System Hacking
+- Reverse engineering and low-level Windows internals
+- Writing clean and stealthy offensive scripts in Python & PowerShell
+
+### 🎓 Certifications & Platforms
+[![Hack The Box](https://img.shields.io/badge/HackTheBox-Active-brightgreen?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/profile/671151)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/kasemsh)
+![OSCP](https://img.shields.io/badge/OSCP-In%20Progress-blue?style=for-the-badge)
+![CEH Master](https://img.shields.io/badge/CEH%20Master-Claimed-green?style=for-the-badge)
+![PNPT](https://img.shields.io/badge/PNPT-Claimed-green?style=for-the-badge)
+![eJPT](https://img.shields.io/badge/eJPT-Claimed-green?style=for-the-badge)
+![eWPT](https://img.shields.io/badge/ewpt-Claimed-green?style=for-the-badge)
+![CRTP](https://img.shields.io/badge/CRTP-Claimed-green?style=for-the-badge)
+![eCPPT](https://img.shields.io/badge/eCPPT-Claimed-green?style=for-the-badge)
+![PT1](https://img.shields.io/badge/PT1-Claimed-green?style=for-the-badge)
+![MCRTA](https://img.shields.io/badge/MCRTA-Claimed-green?style=for-the-badge)
+![CRTA](https://img.shields.io/badge/CRTA-Claimed-green?style=for-the-badge)
+---
+📫 **Reach me:**  
+[![ProtonMail](https://img.shields.io/badge/Email-kasem545@proton.me-orange?style=for-the-badge)](mailto:kasem545@proton.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kasemshibli-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kasemshibli)
+[![GitHub](https://img.shields.io/badge/GitHub-kasem545-black?style=for-the-badge&logo=github)](https://github.com/kasem545)
+
+
 
 </p>
 
