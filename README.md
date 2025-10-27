@@ -22,7 +22,7 @@
 
 ### 🎓 Certifications & Platforms
 [![Hack The Box](https://img.shields.io/badge/HackTheBox-Active-brightgreen?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/profile/671151)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/kasemsh)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-brightgreen?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/kasemsh)
 ![OSCP](https://img.shields.io/badge/OSCP-In%20Progress-blue?style=for-the-badge)
 ![CEH Master](https://img.shields.io/badge/CEH%20Master-Claimed-green?style=for-the-badge)
 ![PNPT](https://img.shields.io/badge/PNPT-Claimed-green?style=for-the-badge)
