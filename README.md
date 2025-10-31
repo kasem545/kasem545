@@ -5,7 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kasem545" alt="kasem545" /></a> </p>
 
-<p align="left"> <a href="https://app.hackthebox.com/profile/671151" target="blank"><img decoding="async" style="display: block; align:center; -webkit-user-select: none;margin: auto;background-color: transition: background-color 300ms" src="https://www.hackthebox.com/badge/image/671151" width="329" height="88" ></a> <p align="left"> <a href="https://tryhackme.com/p/kasemsh" target="blank"><img decoding="async" style="display: block; align:center; -webkit-user-select: none;margin: auto;background-color: transition: background-color 300ms" src="https://tryhackme-badges.s3.amazonaws.com/kasemsh.png" width="329" height="88" ></a>
+
+<div style="display:flex; gap:10px; align-items:center; justify-content:flex-start;">
+  <a href="https://app.hackthebox.com/profile/671151" target="_blank" rel="noopener noreferrer">
+    <img decoding="async" src="https://www.hackthebox.com/badge/image/671151" alt="HackTheBox — kasemsh" width="329" height="88" style="-webkit-user-select:none;">
+  </a>
+  <a href="https://tryhackme.com/p/kasemsh" target="_blank" rel="noopener noreferrer">
+    <img decoding="async" src="https://tryhackme-badges.s3.amazonaws.com/kasemsh.png" alt="TryHackMe — kasemsh" width="329" height="88" style="-webkit-user-select:none;">
+  </a>
+</div>
 
 <!--width="220" height="50"-->
 
