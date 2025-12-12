@@ -62,7 +62,7 @@
 📫 **Reach me:**  
 [![ProtonMail](https://img.shields.io/badge/Email-kasem545@proton.me-orange?style=for-the-badge)](mailto:kasem545@proton.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kasemshibli-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kasemshibli)
-[![GitHub](https://img.shields.io/badge/GitHub-kasem545-black?style=for-the-badge&logo=github)](https://github.com/kasem545)
+[![GitHub](https://img.shields.io/badge/website-Kasem-lightgreen?style=for-the-badge&logo=website)](https://kasem545.github.io/)
 
 
 
