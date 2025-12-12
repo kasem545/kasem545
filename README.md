@@ -56,7 +56,8 @@
 <a href="https://labs.cyberwarfare.live/credential/achievement/68f11583bb69a1b15bc2406e" target="_blank"><img width="80" height="80" src="https://cyberwarfare.live/wp-content/uploads/2025/11/CRTA-100x100.webp" /></a>
 
 ![OSCP](https://img.shields.io/badge/OSCP-In%20Progress-blue?style=for-the-badge)
-![CEH Master](https://img.shields.io/badge/CEH%20Master-Claimed-green?style=for-the-badge)
+![CRTO](https://img.shields.io/badge/CRTO-In%20Progress-blue?style=for-the-badge)
+![CRTE](https://img.shields.io/badge/CRTE-In%20Progress-blue?style=for-the-badge)
 ---
 📫 **Reach me:**  
 [![ProtonMail](https://img.shields.io/badge/Email-kasem545@proton.me-orange?style=for-the-badge)](mailto:kasem545@proton.me)
