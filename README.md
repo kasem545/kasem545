@@ -724,11 +724,11 @@ Social Eng      ██████████████████░░   9
 ---
 
 
-## 🐍 Contribution Snake Eating My Contributions
+## 🐍 Contribution Snake
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/kasem545/kasem545/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github-production-user-asset-6210df.s3.amazonaws.com/14138005/530327091-2c40da97-1b17-4551-a6c7-d43d06e164b2.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251226T093750Z&X-Amz-Expires=300&X-Amz-Signature=0b8c74ce3f36d01df982b9181ff0bc24f3c4336444c5301e729a3cb53519bcc2&X-Amz-SignedHeaders=host)
 
 </div>
 
@@ -740,7 +740,7 @@ Social Eng      ██████████████████░░   9
 
 <div align="center">
 
-If you find my security research, tools, or writeups valuable, consider supporting my work! Your support helps me dedicate more time to developing open-source security tools and creating educational content.
+If you find my tools, or writeups valuable, consider supporting my work! Your support helps me dedicate more time to developing open-source security tools and creating educational content.
 
 ### ☕ Buy Me a Coffee
 
