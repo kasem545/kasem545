@@ -682,6 +682,44 @@ Social Eng      ██████████████████░░   9
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kasem545" alt="kasem545" /></a> </p>
+
+<!--width="220" height="50"-->
+
+
+### 🔭 Current Focus
+- Building and automating internal red-team tools
+- Studying advanced Active Directory and privilege escalation techniques
+- Experimenting with malware development and detection evasion in lab environments
+
+### 🧠 What I Enjoy
+- CTFs & exploit development
+- Network and System Hacking
+- Reverse engineering and low-level Windows internals
+- Writing clean and stealthy offensive scripts in Python & PowerShell
+
+
+
+### 🎓 Certifications & Platforms
+[![Hack The Box](https://img.shields.io/badge/HackTheBox-Active-brightgreen?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/profile/671151)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-brightgreen?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/kasemsh)
+
+
+
+<a href="https://www.credly.com/badges/9223a40b-666d-4658-b6ac-024d0cf07f17" target="_blank"><img width="80" height="80" src="https://images.credly.com/size/340x340/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png" /></a>
+<a href="#" target="_blank"><img width="80" height="80" src="https://github.com/user-attachments/assets/653240c0-d336-4246-a0b3-896afc70f913" /></a>
+<a href="https://www.credential.net/6f3bdc4c-c3c7-4583-9f94-c6adcd55e339" target="_blank"><img width="80" height="80" src="https://media.eu.badgr.com/uploads/badges/assertion-QOvrsf6LSZ6Uhcj9Q8b6rQ.png?versionId=xq_l8PzVDk4Imtf9yG4l2WGlvvDFjs.Q" /></a>
+<a href="https://certs.ine.com/8cb6c0e4-8fd0-408d-a379-90842775a19a" target="_blank"><img width="80" height="80" src="https://templates.images.credential.net/16947191873158488518373721742383.png" /></a>
+<a href="https://certs.ine.com/ac8f16e5-7f5f-4cf1-a46c-deb8011407ae" target="_blank"><img width="80" height="80" src="https://templates.images.credential.net/16947190403078086581199361007762.png" /></a>
+<a href="https://certs.ine.com/cbd1fdd4-ff29-48a6-bbb3-9c1ab782c935" target="_blank"><img width="80" height="80" src="https://templates.images.credential.net/16947192901898719699151540862834.png" /></a>
+<a href="https://certified.tcm-sec.com/6663bab5-984f-4c99-85fb-6b9c9dca5ee6" target="_blank"><img width="80" height="80" src="https://templates.images.credential.net/17234811996744036153005682532231.png" /></a>
+<a href="https://www.credly.com/badges/ffcfa8b2-e680-43dc-b73e-3703b8ce64ec" target="_blank"><img width="80" height="80" src="https://images.credly.com/images/54525e33-85d1-405c-a68c-1e4dd9c7f57f/blob" /></a>
+<a href="https://labs.cyberwarfare.live/credential/achievement/68e5dad2d3976ffc330d73f3" target="_blank"><img width="80" height="80" src="https://cyberwarfare.live/wp-content/uploads/2025/11/MCRTA-100x100.webp" /></a>
+<a href="https://labs.cyberwarfare.live/credential/achievement/68f11583bb69a1b15bc2406e" target="_blank"><img width="80" height="80" src="https://cyberwarfare.live/wp-content/uploads/2025/11/CRTA-100x100.webp" /></a>
+
+![OSCP](https://img.shields.io/badge/OSCP-In%20Progress-blue?style=for-the-badge)
+![OSWP](https://img.shields.io/badge/OSWP-In%20Progress-blue?style=for-the-badge)
+![CRTO](https://img.shields.io/badge/CRTO-In%20Progress-blue?style=for-the-badge)
 ---
 
 
