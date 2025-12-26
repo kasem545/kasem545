@@ -166,8 +166,9 @@ graph TD
     B --> C[CRTO - Red Team Ops]
     C --> D[CRTE - Red Team Expert]
     D --> E[OSED - Exploit Dev]
-    E --> F[OSEE - Advanced Exploits]
-    F --> G[Ultimate Goal: OSCE³]
+    E --> F[OSCE³ - Master offensive security]
+    F --> G[Ultimate Goal: OSEE Advanced Windows Exploitation]
+
     
     style A fill:#00ff00,stroke:#00aa00,stroke-width:3px
     style B fill:#ffff00,stroke:#aaaa00,stroke-width:2px
