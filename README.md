@@ -5,7 +5,7 @@
 
 <!-- Dynamic Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=00F700&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=800&height=100&lines=🔴+Red+Team+Operator+%7C+Offensive+Security;🎯+Penetration+Tester+%7C+Bug+Bounty+Hunter;💀+Exploit+Developer+%7C+Malware+Analyst;🎮+CTF+Player+%7C+HackTheBox+Enthusiast;🔬+Cyber+Security+Enthusiast+%7C+Tool+Developer;⚡+Always+Learning+%7C+Always+Hacking" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=00F700&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=800&height=100&lines=🔴+Red+Team+Operator+%7C+Offensive+Security;🎯+Penetration+Tester+%7C+Bug+Bounty+Hunter;💀+Exploit+Developer+%7C+Malware+Analyst;🎮+CTF+Player+%7C+HackTheBox+Enthusiast;🔬+Cyber+Security+Enthusiast+%7C+Tool+Developer;⚡+Always+Learning+%7C+Always+Hacking" alt="" />
 </p>
 
 <!-- Animated GIF Banner -->
