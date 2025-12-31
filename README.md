@@ -39,7 +39,6 @@
 
 </div>
 
----
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -123,7 +122,6 @@ print(f"[+] Current Focus: {hacker.current_projects()}")
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
 
 ## 🎯 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Current Mission Objectives
 
@@ -185,7 +183,6 @@ graph TD
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
 
 ## 📊 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Analytics
 
@@ -226,7 +223,6 @@ graph TD
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
 
 ## 🏆 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> Achievements & Trophies
 
@@ -239,7 +235,6 @@ graph TD
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
 
 ## 🎖️ <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="32"> Professional Certifications
 
@@ -323,7 +318,6 @@ graph TD
   </tr>
 </table>
 
----
 
 ### 🎯 Currently Pursuing
 
@@ -338,7 +332,6 @@ graph TD
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
 
 ## 🎮 <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="32"> Capture The Flag Excellence
 
@@ -366,7 +359,6 @@ graph TD
   </tr>
 </table>
 
----
 
 ### 📈 CTF Statistics & Achievements
 
@@ -388,7 +380,6 @@ Recent Achievements:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
 
 ## 💻 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Arsenal & Skills
 
@@ -534,7 +525,6 @@ Recent Achievements:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
 
 ## 🎯 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> Expertise Breakdown
 
@@ -604,7 +594,6 @@ Social Eng      ██████████████████░░   9
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
 
 ## 🔥 <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="32"> Featured Projects & Tools
 
@@ -638,7 +627,6 @@ Social Eng      ██████████████████░░   9
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
 
 ## 📝 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> Latest Blog Posts & Writeups
 
@@ -721,7 +709,6 @@ Social Eng      ██████████████████░░   9
 ![OSCP](https://img.shields.io/badge/OSCP-In%20Progress-blue?style=for-the-badge)
 ![OSWP](https://img.shields.io/badge/OSWP-In%20Progress-blue?style=for-the-badge)
 ![CRTO](https://img.shields.io/badge/CRTO-In%20Progress-blue?style=for-the-badge)
----
 
 
 ## 🐍 Contribution Snake
@@ -734,7 +721,6 @@ Social Eng      ██████████████████░░   9
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
 
 ## 💰 <img src="https://media.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif" width="32"> Support My Research & Development
 
@@ -775,7 +761,6 @@ If you find my tools, or writeups valuable, consider supporting my work! Your su
 ![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Planned-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)
 ![Patreon](https://img.shields.io/badge/Patreon-Coming%20Soon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)
 
----
 
 **Every contribution, no matter how small, helps me continue my mission of making cybersecurity knowledge accessible to everyone! 🙏**
 
@@ -783,7 +768,6 @@ If you find my tools, or writeups valuable, consider supporting my work! Your su
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
 
 ## 📬 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> Let's Connect & Collaborate!
 
@@ -833,7 +817,6 @@ I'm always excited to connect with fellow security researchers, pentesters, and 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
 
 ## 📜 <img src="https://media.giphy.com/media/3oKIPqsXYcdjcBcXL2/giphy.gif" width="32"> Hacker's Creed
 
@@ -858,13 +841,11 @@ I'm always excited to connect with fellow security researchers, pentesters, and 
 └──────────────────────────────────────────────────────────────┘
 ```
 
----
 
 ### 🎯 My Mission
 
 > To contribute to the cybersecurity community by developing innovative tools, sharing knowledge through detailed writeups, and helping others learn offensive security techniques in a responsible and ethical manner.
 
----
 
 ### ⚖️ Responsible Disclosure
 
@@ -874,14 +855,12 @@ I follow responsible disclosure practices for all security research. If you beli
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
 
 <div align="center">
 
 <!-- Random Dev Quote -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
----
 
 <!-- Animated Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Happy%20Hacking!%20🚀&fontSize=50&fontAlignY=70&animation=twinkling&fontColor=fff" />
@@ -912,7 +891,6 @@ I follow responsible disclosure practices for all security research. If you beli
 
 <sub>Last Updated: December 2025 | This profile is a living document and continuously evolving</sub>
 
----
 
 <p align="center">
   <i>⭐ If you find my work interesting, consider starring my repositories! ⭐</i>
