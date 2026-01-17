@@ -51,7 +51,7 @@
 
 class OffensiveSecuritySpecialist:
     """
-    Elite cybersecurity professional specializing in offensive operations
+    Cyber Security Enthusiast | Penetration Tester | Red Team Operator
     """
     
     def __init__(self):
