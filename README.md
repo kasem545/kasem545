@@ -100,7 +100,6 @@ class OffensiveSecuritySpecialist:
             "linkedin": "linkedin.com/in/kasemshibli",
             "website": "kasem545.github.io",
             "pgp": """-----BEGIN PGP PUBLIC KEY BLOCK-----
-
 mDMEaRxGxBYJKwYBBAHaRw8BAQdAXe8/z8qK+vVk86o5hYkVsaKPz2pUPfF/NAgd
 BFVJ/Ku0IUthc2VtIFNoaWJsaSA8a2FzZW01NDVAcHJvdG9uLm1lPoiZBBMWCgBB
 FiEECWmzNjnkwbRWdZVFDdi+ge8vG94FAmkcRsQCGwMFCQWk6NwFCwkIBwICIgIG
