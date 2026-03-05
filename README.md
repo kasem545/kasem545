@@ -281,12 +281,6 @@ graph TD
   </tr>
   <tr>
     <td align="center" width="140">
-      <a href="https://www.credential.net/6f3bdc4c-c3c7-4583-9f94-c6adcd55e339">
-        <img src="https://media.eu.badgr.com/uploads/badges/assertion-QOvrsf6LSZ6Uhcj9Q8b6rQ.png?versionId=xq_l8PzVDk4Imtf9yG4l2WGlvvDFjs.Q" width="100" height="100"/>
-        <br><b>Attacking and Defending Active Directory</b>
-      </a>
-    </td>
-    <td align="center" width="140">
       <a href="https://www.credly.com/badges/ffcfa8b2-e680-43dc-b73e-3703b8ce64ec">
         <img src="https://images.credly.com/images/54525e33-85d1-405c-a68c-1e4dd9c7f57f/blob" width="100" height="100"/>
         <br><b>Jr Penetration Tester (PT1)</b>
@@ -308,7 +302,7 @@ graph TD
       </a>
     </td>
     <td align="center" width="140">
-      <a href="#">
+      <a href="https://www.credential.net/f4f69583-8935-49a9-b568-f6c16b88416a">
         <img src="https://github.com/user-attachments/assets/653240c0-d336-4246-a0b3-896afc70f913" width="100" height="100"/>
         <br><b>CRTP</b>
         <br><sub>Certified Red Team Professional </sub>
