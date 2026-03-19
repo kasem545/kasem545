@@ -308,6 +308,13 @@ graph TD
         <br><sub>Certified Red Team Professional </sub>
       </a>
     </td>
+    <td align="center" width="140">
+      <a href="https://credentials.offsec.com/a6bb918f-4c84-4a3c-adab-c7de6b1c06bf">
+        <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/176594617" width="100" height="100"/>
+        <br><b>OSWP</b>
+        <br><sub>Offensive Security Wireless Professional </sub>
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -316,10 +323,8 @@ graph TD
 
 <p align="center">
   <img src="https://img.shields.io/badge/OSCP-In%20Progress%20(90%25)-FF6B6B?style=for-the-badge&logo=offensive-security&logoColor=white&labelColor=1a1a1a"/>
-    <img src="https://img.shields.io/badge/OSWP-In%20Progress-blue?style=for-the-badge&logo=offensive-security&logoColor=white&labelColor=1a1a1a">
-  <img src="https://img.shields.io/badge/CRTO-Scheduled%202026-4ECDC4?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=1a1a1a"/>
   <img src="https://img.shields.io/badge/CRTE-Roadmap%202026-95E1D3?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/OSED-Future%20Goal-F38181?style=for-the-badge&logo=offensive-security&logoColor=white&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/OSCE³-Future%20Goal-F38181?style=for-the-badge&logo=offensive-security&logoColor=white&labelColor=1a1a1a"/>
 
 </p>
 
