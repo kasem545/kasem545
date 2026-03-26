@@ -315,6 +315,13 @@ graph TD
         <br><sub>Offensive Security Wireless Professional </sub>
       </a>
     </td>
+    <td align="center" width="140">
+      <a href="https://www.credly.com/badges/a562cd39-9510-4929-99b2-f1aa1202a89d">
+        <img src="https://images.credly.com/size/340x340/images/46525b6b-c65b-45b4-ae45-420dba5af307/blob" width="100" height="100"/>
+        <br><b>CWES</b>
+        <br><sub>Certified Web Exploitation Specialist  </sub>
+      </a>
+    </td>
   </tr>
 </table>
 
