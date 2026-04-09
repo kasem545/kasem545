@@ -278,6 +278,13 @@ graph TD
         <br><sub>Practical Network Penetration Tester</sub>
       </a>
     </td>
+    <td align="center" width="140">
+      <a href="https://www.credly.com/badges/80ef8438-a524-4808-b019-e9d9be02c7ec">
+        <img src="https://images.credly.com/size/340x340/images/e63aa507-b974-4e67-bae6-1e425f6e2a99/image.png" width="100" height="100"/>
+        <br><b>CPTS</b>
+        <br><sub>Certified Penetration Testing Specialist</sub>
+      </a>
+    </td>
   </tr>
   <tr>
     <td align="center" width="140">
