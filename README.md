@@ -285,6 +285,13 @@ graph TD
         <br><sub>Certified Penetration Testing Specialist</sub>
       </a>
     </td>
+     <td align="center" width="140">
+      <a href="https://credentials.offsec.com/378959b4-3161-4b7b-9eed-5d99ee6269c5">
+        <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/182162218" width="100" height="100"/>
+        <br><b>OSCP</b>
+        <br><sub>OffSec Certified Professional  </sub>
+      </a>
+    </td>
   </tr>
   <tr>
     <td align="center" width="140">
@@ -329,6 +336,7 @@ graph TD
         <br><sub>Certified Web Exploitation Specialist  </sub>
       </a>
     </td>
+   
   </tr>
 </table>
 
