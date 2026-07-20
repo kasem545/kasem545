@@ -685,7 +685,7 @@ Social Eng      ██████████████████░░   9
   </tr>
 </table>
 
-<a href="https://kasem.sh">
+<a href="https://blog.kasem.sh">
   <img src="https://img.shields.io/badge/Visit%20My%20Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/>
 </a>
 
