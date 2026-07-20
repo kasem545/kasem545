@@ -19,7 +19,7 @@
   <a href="mailto:kasem545@proton.me">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=8B89CC&color=6D4AFF" alt="ProtonMail"/>
   </a>
-  <a href="https://kasem545.github.io/">
+  <a href="https://kasem.sh/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722&color=FF7043" alt="Portfolio"/>
   </a>
   <a href="https://app.hackthebox.com/profile/671151">
@@ -98,7 +98,7 @@ class OffensiveSecuritySpecialist:
         return {
             "email": "kasem545@proton.me",
             "linkedin": "linkedin.com/in/kasemshibli",
-            "website": "kasem545.github.io",
+            "website": "kasem.sh",
             "pgp": """-----BEGIN PGP PUBLIC KEY BLOCK-----
 mDMEaRxGxBYJKwYBBAHaRw8BAQdAXe8/z8qK+vVk86o5hYkVsaKPz2pUPfF/NAgd
 BFVJ/Ku0IUthc2VtIFNoaWJsaSA8a2FzZW01NDVAcHJvdG9uLm1lPoiZBBMWCgBB
@@ -661,11 +661,11 @@ Social Eng      ██████████████████░░   9
 ### 📰 Recent Articles
 
 <!-- BLOG-POST-LIST:START -->
-- 📰 [Kerberos Attacks cheatsheet](https://kasem545.github.io/blog/posts/kerberos/)
-- 📰 [Windows Local Privilege Escalation](https://kasem545.github.io/blog/posts/windows-privesc/)
-- 📰 [Ligolo-MP/Ligolo-NG Cheatsheet](https://kasem545.github.io/blog/posts/ligolo-mp/)
-- 📰 [AD ACLs Cheatsheet](https://kasem545.github.io/blog/posts/ligolo-mp/)
-- 📰 [Certipy Cheatsheet](https://kasem545.github.io/blog/posts/certifpy/)
+- 📰 [Kerberos Attacks cheatsheet](https://blog.kasem.sh/posts/kerberos)
+- 📰 [Windows Local Privilege Escalation](https://blog.kasem.sh/posts/windows-privesc)
+- 📰 [Ligolo-MP/Ligolo-NG Cheatsheet](https://blog.kasem.sh/posts/ligolo-mp)
+- 📰 [AD ACLs Cheatsheet](https://blog.kasem.sh/posts/AD-ACLs)
+- 📰 [Certipy Cheatsheet](https://blog.kasem.sh/posts/certifpy)
 <!-- BLOG-POST-LIST:END -->
 
    </td>
@@ -674,18 +674,18 @@ Social Eng      ██████████████████░░   9
 ### 🎮 CTF Writeups
 
 <!-- CTF-WRITEUP-LIST:START -->
-- 📝 [TryHackMe: Sequence](https://kasem545.github.io/blog/posts/tryhackme-sequence/)
-- 📝 [TryHackMe: Voyage](https://kasem545.github.io/blog/posts/tryhackme-voyage/)
-- 📝 [TryHackMe: Extract](https://kasem545.github.io/blog/posts/tryhackme-extract/)
-- 📝 [TryHackMe: Contrabando](https://kasem545.github.io/blog/posts/tryhackme-contrabando/)
-- 📝 [TryHackMe: Soupedecode 01](https://kasem545.github.io/blog/posts/tryhackme-soupedecode_01/)
+- 📝 [TryHackMe: Sequence](https://writeups.kasem.sh/writeups/tryhackme-sequence)
+- 📝 [TryHackMe: Voyage](https://writeups.kasem.sh/writeups/tryhackme-voyage)
+- 📝 [TryHackMe: Extract](https://writeups.kasem.sh/writeups/tryhackme-extract)
+- 📝 [TryHackMe: Contrabando](https://writeups.kasem.sh/writeups/tryhackme-contrabando)
+- 📝 [TryHackMe: Soupedecode 01](https://writeups.kasem.sh/writeups/tryhackme-soupedecode_01)
 <!-- CTF-WRITEUP-LIST:END -->
 
    </td>
   </tr>
 </table>
 
-<a href="https://kasem545.github.io">
+<a href="https://kasem.sh">
   <img src="https://img.shields.io/badge/Visit%20My%20Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/>
 </a>
 
@@ -755,11 +755,6 @@ If you find my tools, or writeups valuable, consider supporting my work! Your su
   </tr>
 </table>
 
-### 🎁 Other Ways to Support
-
-![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Planned-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)
-![Patreon](https://img.shields.io/badge/Patreon-Coming%20Soon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)
-
 
 **Every contribution, no matter how small, helps me continue my mission of making cybersecurity knowledge accessible to everyone! 🙏**
 
@@ -783,8 +778,8 @@ I'm always excited to connect with fellow security researchers, pentesters, and 
   <a href="https://linkedin.com/in/kasemshibli">
     <img src="https://img.shields.io/badge/LinkedIn-Kasem%20Shibli-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://kasem545.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-kasem545.github.io-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <a href="https://kasem.sh/">
+    <img src="https://img.shields.io/badge/Portfolio-kasem.sh-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
